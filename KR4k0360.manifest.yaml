@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0360_001.yaml, hash: 'sha256:45f1c7accae7873d2828be2124b8eab5e057dbd6f66201a5d70a23b242f1475e'}
+  - {seq: 1, filename: KR4k0360_001.yaml, hash: 'sha256:12a4ccc45e988819671816ccbeea7c81f85e7d5792491560e0877c891c84e9e2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0360_001.markers.yaml, hash: 'sha256:f8dd1640cb34e3c67909ad04d67770ab07180a19a840e68850f3ac639407f161'}
+  - {seq: 1, role: markers, filename: assets/KR4k0360_001.markers.yaml, hash: 'sha256:d7e66f8df79a77a3bf7b810483a6af3530cf7f033cbe13b1ba0253104227774e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 朱鳳晉書
   type: section
   level: 1
-hash: sha256:d30ab7e024a441c081e6c9c84a15e671bf1698ff8209bde29b3dabec7c1a1b96
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bd4e744f5730fd72db7f47743ebbb11f83ce2c82d24fadc7104ab78688eae7a0
